@@ -12,5 +12,5 @@
 - sudo cp -R  c /usr/lib/cgi-bin/
 - open your browser http://localhost/cgi-bin/c/index
 
-### have fun surfing using c
+### have fun surf using c
 - <a href="https://me-danuandrean.github.io/">Danu andrean</a>
